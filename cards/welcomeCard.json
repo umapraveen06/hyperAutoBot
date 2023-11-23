@@ -1,0 +1,32 @@
+{
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "type": "AdaptiveCard",
+  "version": "1.0",
+  "body": [
+    {
+      "type": "TextBlock",
+      "spacing": "medium",
+      "size": "default",
+      "weight": "Bolder",
+      "horizontalAlignment": "center",
+      "text": "Welcome to MLJ HyperAutomation BOT",
+      "wrap": true,
+      "maxLines": 0
+    },
+    {
+      "type": "Image",
+      "url": "https://media.licdn.com/dms/image/D4E12AQFSZSUckfx3hQ/article-cover_image-shrink_720_1280/0/1689781044367?e=2147483647&v=beta&t=5Reo7DN0lKcfr5zUtR2CEdh7siHKIL5-9eMcS3BlddU",
+      "size": "stretch"
+    },
+    {
+      "type": "TextBlock",
+      "size": "default",
+      "isSubtle": "true",
+      "horizontalAlignment": "center",
+      "text": "Chatbot to unearth the MLJ test automation status!!!",
+      "wrap": true,
+      "maxLines": 0
+    }
+  ]
+  
+}
